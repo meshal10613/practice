@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: blanchedalmond;
+}
+header{
+    width: 100%;
+    height: 250px;
+    display: block;
+    background-color: aqua;
+}
